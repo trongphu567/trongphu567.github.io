@@ -1,13 +1,21 @@
-title: Tran Trong Phu # your name (or website title) here
+title: <p align="center"> Tran Trong Phu </p> # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  I'm an IT student at Sai Gon University, Ho Chi Minh City.
-  <br><br>
-  I'm focusing on Software Engineer Career.
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
+description:
+  > # your text below (remove <br> elements if you don't need line breaks)
+  <p align="center">
+    <a href="pdf/sample_presentation.pdf">Resume</a>
+    <a href="https://www.linkedin.com/in/trongphutran">LinkedIn</a>
+    <a href="https://github.com/trongphu567">GitHub</a>
+  </p>
+
+  <p align="justify">
+    I'm an IT student at Sai Gon University, Ho Chi Minh City.
+    <br><br>
+    I'm focusing on Software Engineer Career.
+    <br><br>
+  </p>
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
